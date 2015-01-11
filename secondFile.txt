@@ -1,2 +1,3 @@
 This is already my second file.
 Yeah I finally managed to enter a new line.
+I'm now on the master again I have already created a new branch and want to see what happens now when I change a file that is in the master and in the new branch that was created before this line here was added in the master.
